@@ -87,6 +87,10 @@ set mysql_connection_string "mysql://root@localhost:3306/blueframework?waitForCo
   
   ``` /removemoney id account count```
 
+  - Set Licenses (drive_truck, dmv, drive, drive_bike, weapon)
+  
+  ``` /setlicenses id license 0 or 1```
+
   - Set Job
 
   ``` /setjob id job grade```
@@ -113,8 +117,9 @@ set mysql_connection_string "mysql://root@localhost:3306/blueframework?waitForCo
 
   # 🩸 IMPORTANT
   
- **Je ne recommande pas ce framework au débutant . Pour utiliser ce framework il est néccéssaire d'avoir des connaissances .Pour toute aide je vous invite à rejoindre le discord:**
+ **Je ne recommande pas ce framework au débutant . Pour continuer ce framework il est néccéssaire d'avoir des connaissances en programation .Pour toute aide je vous invite à rejoindre le discord:**
  
   # 📈 Support
   
   - [Discord](https://discord.gg/p49CNewUC9)
+
