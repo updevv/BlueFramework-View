@@ -63,6 +63,8 @@ set mysql_connection_string "mysql://root@localhost:3306/blueframework?waitForCo
  
  - Systéme de Job
  - Systéme de setjob
+ - Systéme de Crew
+ - Systéme de setcrew
  
   ```GESTION RANK```
  
@@ -94,6 +96,10 @@ set mysql_connection_string "mysql://root@localhost:3306/blueframework?waitForCo
   - Set Job
 
   ``` /setjob id job grade```
+
+  - Set Crew
+
+  ``` /setcrew id crew grade```
   
   - Set Rank (Utilisable uniquement console server)
 
@@ -114,6 +120,18 @@ set mysql_connection_string "mysql://root@localhost:3306/blueframework?waitForCo
   - Revive
 
   ``` /revive```
+
+  - Id (Affiche votre id)
+
+  ``` /id```
+
+  - Sync (force update de vos information en bdd)
+
+  ``` /sync```
+
+  - Stuck (te téléporte sur une position si tu es bloquer)
+
+  ``` /stuck```
 
   # 🩸 IMPORTANT
   
